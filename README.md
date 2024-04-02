@@ -15,7 +15,7 @@
 * Google Data Studio (LookerStudio), Yandex Data Lens
 
 # Образование и сертификаты:
-В 2023 году закончил курс профессиональной переподготовки "Аналитик данных" от Нетологии. [Ссылка на курс](https://netology.ru/programs/data-analyst), [диплом](диплом Павлов Г.И..pdf)
+В 2023 году закончил курс профессиональной переподготовки "Аналитик данных" от Нетологии. [Ссылка на курс](https://netology.ru/programs/data-analyst), [диплом](https://github.com/PavlovGeorgiy/portfolio/blob/7a80d6f0cd55e4b9f6c58bdef06a0a7773a0c2bd/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%20%D0%93.%D0%98..pdf))
   
 Модули курса:
 * [Основы аналитики и аналитическое мышление](). [Сертификат]()

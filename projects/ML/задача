@@ -1,0 +1,6 @@
+1. взять датасет homework.csv (см. [файл](https://github.com/PavlovGeorgiy/portfolio/blob/c62fc8ecba6d5182b984c9ca78d481fb636e76d1/projects/ML/homework.csv));
+2. предсказать значение столбца MEDV на основе других признаков;
+3. решить задачу регрессии, используя алгоритм линейной регрессии;
+4. оценить качество регрессии при помощи метрики MSE/
+
+[Ссылка на код с решением](https://github.com/PavlovGeorgiy/portfolio/blob/a558e6cca48854d7977f5c7275b8cb6495db100a/projects/ML/ML.ipynb)

@@ -19,3 +19,7 @@
 * Отчёт опирается на исходные данные.
 * Данные описаны и определена система метрик.
 * Сформулированы выводы и рекомендации.
+
+[База транзакций](https://github.com/PavlovGeorgiy/portfolio/blob/5655ecb553199d67d3814ca8da98179a78a4b1fa/projects/%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82/aic.csv)
+[Код](https://github.com/PavlovGeorgiy/portfolio/blob/5655ecb553199d67d3814ca8da98179a78a4b1fa/projects/%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82/AIC.ipynb)
+[Аналитический отчет](https://docs.google.com/document/d/1Y_DEWB2oXEJmwaksJen5lZN18CUDvh8xiRi0Y_q61j8/edit?usp=sharing)

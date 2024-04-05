@@ -11,7 +11,7 @@
 С выполненными проектами можно ознакомиться [здесь](https://github.com/PavlovGeorgiy/portfolio/tree/main/projects)
 
 # Навыки:
-* Google-формы, Google-таблицы (ВПР, свобдные таблицы), Exel
+* Google-формы, Google-таблицы (ВПР, свобдные таблицы), Excel
 * SQL, PostgreSQL, DBeaver, MongoDB
 * Python, NumPy, pandas, MPL
 * Google Data Studio (LookerStudio), Yandex Data Lens
